@@ -31,7 +31,9 @@ object Grade:
    * - `apply` to select an element at a specific index.
    */
   def median(grades: Seq[Grade]): Grade =
-    ???
+    val sortedGrades = grades.sortBy(grade => grade.ordinal)
+    val gradesMid = grades.size / 2
+    sortedGrades(gradesMid)
 end Grade
 
 /**
@@ -73,14 +75,14 @@ case class Election(description: String, candidates: Set[Candidate]):
     // into a single sequence containing the grades assigned to each
     // candidate by the voters.
     val allGrades: Seq[(Candidate, Grade)] =
-      ???
+      ballots.flatMap(_.grades)
 
     // Second step: use the operation `groupMap` to transform the
     // collection of pairs of `(Candidate, Grade)` into a `Map`
     // containing all the grades that were assigned to a given
     // `Candidate`.
     val gradesPerCandidate: Map[Candidate, Seq[Grade]] =
-      ???
+      allGrades.groupMap(_._1)(_._2)
 
     findWinner(gradesPerCandidate)
   end elect

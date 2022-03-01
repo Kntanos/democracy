@@ -143,3 +143,593 @@
 2022.02.28 20:28:04 INFO  Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.13. Compiling...
 2022.02.28 20:28:36 INFO    Compilation completed in 31.418s.
 2022.02.28 20:28:50 INFO  time: compiled democracy-build in 45s
+2022.03.01 10:22:37 INFO  compiling democracy (1 scala source)
+2022.03.01 10:22:39 INFO  time: compiled democracy in 1.96s
+2022.03.01 10:22:39 INFO  compiling democracy (1 scala source)
+2022.03.01 10:22:40 INFO  time: compiled democracy in 0.86s
+2022.03.01 10:22:43 INFO  compiling democracy (1 scala source)
+2022.03.01 10:22:47 INFO  time: compiled democracy in 4.12s
+2022.03.01 10:22:47 INFO  compiling democracy (1 scala source)
+2022.03.01 10:22:49 INFO  time: compiled democracy in 2.02s
+2022.03.01 10:22:50 INFO  compiling democracy (1 scala source)
+2022.03.01 10:22:52 INFO  time: compiled democracy in 1.42s
+2022.03.01 10:22:52 INFO  compiling democracy (1 scala source)
+2022.03.01 10:22:52 INFO  time: compiled democracy in 0.36s
+2022.03.01 10:22:55 INFO  compiling democracy (1 scala source)
+2022.03.01 10:22:55 INFO  time: compiled democracy in 0.68s
+2022.03.01 10:22:57 INFO  compiling democracy (1 scala source)
+2022.03.01 10:22:59 INFO  time: compiled democracy in 1.15s
+2022.03.01 10:22:59 INFO  compiling democracy (1 scala source)
+2022.03.01 10:23:01 INFO  time: compiled democracy in 1.89s
+2022.03.01 10:23:01 INFO  compiling democracy (1 scala source)
+2022.03.01 10:23:03 INFO  time: compiled democracy in 1.96s
+2022.03.01 10:23:03 INFO  compiling democracy (1 scala source)
+2022.03.01 10:23:03 INFO  time: compiled democracy in 0.47s
+2022.03.01 10:23:07 INFO  compiling democracy (1 scala source)
+2022.03.01 10:23:07 INFO  time: compiled democracy in 0.35s
+2022.03.01 10:23:09 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:23:10 INFO  compiling democracy (1 scala source)
+2022.03.01 10:23:12 INFO  time: compiled democracy in 1.61s
+2022.03.01 10:23:13 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:23:14 INFO  compiling democracy (1 scala source)
+2022.03.01 10:23:14 INFO  time: compiled democracy in 0.7s
+2022.03.01 10:23:43 INFO  compiling democracy (1 scala source)
+2022.03.01 10:23:43 INFO  time: compiled democracy in 0.56s
+2022.03.01 10:24:06 INFO  compiling democracy (1 scala source)
+2022.03.01 10:24:06 INFO  time: compiled democracy in 0.85s
+2022.03.01 10:33:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:43:51 INFO  compiling democracy (1 scala source)
+2022.03.01 10:43:52 INFO  time: compiled democracy in 0.98s
+2022.03.01 10:43:52 INFO  compiling democracy (1 scala source)
+2022.03.01 10:43:54 INFO  time: compiled democracy in 0.75s
+Mar 01, 2022 10:44:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 364
+2022.03.01 10:44:30 INFO  compiling democracy (1 scala source)
+2022.03.01 10:44:30 INFO  time: compiled democracy in 0.46s
+2022.03.01 10:44:47 INFO  compiling democracy (1 scala source)
+2022.03.01 10:44:47 INFO  time: compiled democracy in 0.45s
+2022.03.01 10:44:50 INFO  compiling democracy (1 scala source)
+2022.03.01 10:44:50 INFO  time: compiled democracy in 0.52s
+2022.03.01 10:44:52 INFO  compiling democracy (1 scala source)
+2022.03.01 10:44:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:44:52 INFO  time: compiled democracy in 0.37s
+2022.03.01 10:45:53 INFO  compiling democracy (1 scala source)
+2022.03.01 10:45:53 INFO  time: compiled democracy in 0.64s
+2022.03.01 10:45:55 INFO  compiling democracy (1 scala source)
+2022.03.01 10:45:55 INFO  time: compiled democracy in 0.41s
+2022.03.01 10:46:03 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:03 INFO  time: compiled democracy in 0.31s
+2022.03.01 10:46:14 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:14 INFO  time: compiled democracy in 0.68s
+2022.03.01 10:46:23 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:23 INFO  time: compiled democracy in 0.45s
+2022.03.01 10:46:31 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:31 INFO  time: compiled democracy in 0.35s
+2022.03.01 10:46:34 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:34 INFO  time: compiled democracy in 0.12s
+2022.03.01 10:46:36 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:36 INFO  time: compiled democracy in 0.33s
+2022.03.01 10:46:42 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:42 INFO  time: compiled democracy in 0.64s
+2022.03.01 10:46:44 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:44 INFO  time: compiled democracy in 0.76s
+2022.03.01 10:46:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:46:50 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:50 INFO  time: compiled democracy in 0.73s
+2022.03.01 10:46:55 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:55 INFO  time: compiled democracy in 0.28s
+2022.03.01 10:46:57 INFO  compiling democracy (1 scala source)
+2022.03.01 10:46:57 INFO  time: compiled democracy in 0.16s
+2022.03.01 10:47:20 INFO  compiling democracy (1 scala source)
+2022.03.01 10:47:20 INFO  time: compiled democracy in 0.37s
+2022.03.01 10:47:21 INFO  compiling democracy (1 scala source)
+2022.03.01 10:47:21 INFO  time: compiled democracy in 0.36s
+2022.03.01 10:47:24 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:47:25 INFO  compiling democracy (1 scala source)
+2022.03.01 10:47:25 INFO  time: compiled democracy in 0.63s
+2022.03.01 10:47:30 INFO  compiling democracy (1 scala source)
+2022.03.01 10:47:30 INFO  time: compiled democracy in 0.68s
+2022.03.01 10:47:55 INFO  compiling democracy (1 scala source)
+2022.03.01 10:47:55 INFO  time: compiled democracy in 0.26s
+2022.03.01 10:47:57 INFO  compiling democracy (1 scala source)
+2022.03.01 10:47:57 INFO  time: compiled democracy in 0.28s
+2022.03.01 10:48:02 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:48:03 INFO  compiling democracy (1 scala source)
+2022.03.01 10:48:03 INFO  time: compiled democracy in 0.61s
+2022.03.01 10:48:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:48:09 INFO  compiling democracy (1 scala source)
+2022.03.01 10:48:09 INFO  time: compiled democracy in 0.29s
+2022.03.01 10:48:11 INFO  compiling democracy (1 scala source)
+2022.03.01 10:48:11 INFO  time: compiled democracy in 0.27s
+2022.03.01 10:48:20 INFO  compiling democracy (1 scala source)
+2022.03.01 10:48:20 INFO  time: compiled democracy in 0.53s
+2022.03.01 10:48:23 INFO  compiling democracy (1 scala source)
+2022.03.01 10:48:23 INFO  time: compiled democracy in 0.6s
+2022.03.01 10:48:26 INFO  compiling democracy (1 scala source)
+2022.03.01 10:48:26 INFO  time: compiled democracy in 0.3s
+2022.03.01 10:48:28 INFO  compiling democracy (1 scala source)
+2022.03.01 10:48:28 INFO  time: compiled democracy in 0.58s
+2022.03.01 10:48:35 INFO  compiling democracy (1 scala source)
+2022.03.01 10:48:35 INFO  time: compiled democracy in 0.44s
+2022.03.01 10:48:38 INFO  compiling democracy (1 scala source)
+2022.03.01 10:48:38 INFO  time: compiled democracy in 0.27s
+2022.03.01 10:49:01 INFO  compiling democracy (1 scala source)
+2022.03.01 10:49:01 INFO  time: compiled democracy in 0.22s
+2022.03.01 10:49:04 INFO  compiling democracy (1 scala source)
+2022.03.01 10:49:04 INFO  time: compiled democracy in 0.28s
+2022.03.01 10:49:32 INFO  compiling democracy (1 scala source)
+2022.03.01 10:49:32 INFO  time: compiled democracy in 0.55s
+2022.03.01 10:49:38 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:49:39 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:49:41 INFO  compiling democracy (1 scala source)
+2022.03.01 10:49:41 INFO  time: compiled democracy in 0.54s
+2022.03.01 10:50:03 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:03 INFO  time: compiled democracy in 0.3s
+Mar 01, 2022 10:50:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1047
+2022.03.01 10:50:29 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:29 INFO  time: compiled democracy in 0.62s
+2022.03.01 10:50:32 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:32 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:50:32 INFO  time: compiled democracy in 0.33s
+2022.03.01 10:50:33 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:33 INFO  time: compiled democracy in 0.49s
+2022.03.01 10:50:35 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:35 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:50:35 INFO  time: compiled democracy in 0.55s
+2022.03.01 10:50:39 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:39 INFO  time: compiled democracy in 0.52s
+2022.03.01 10:50:42 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:42 INFO  time: compiled democracy in 0.3s
+2022.03.01 10:50:55 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:55 INFO  time: compiled democracy in 0.25s
+2022.03.01 10:50:57 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:50:58 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:58 INFO  time: compiled democracy in 0.23s
+2022.03.01 10:50:59 INFO  compiling democracy (1 scala source)
+2022.03.01 10:50:59 INFO  time: compiled democracy in 0.43s
+2022.03.01 10:51:02 INFO  compiling democracy (1 scala source)
+2022.03.01 10:51:02 INFO  time: compiled democracy in 0.36s
+2022.03.01 10:51:04 INFO  compiling democracy (1 scala source)
+2022.03.01 10:51:04 INFO  time: compiled democracy in 0.27s
+2022.03.01 10:51:07 INFO  compiling democracy (1 scala source)
+2022.03.01 10:51:07 INFO  time: compiled democracy in 0.36s
+Mar 01, 2022 10:51:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1241
+2022.03.01 10:51:47 INFO  compiling democracy (1 scala source)
+2022.03.01 10:51:47 INFO  time: compiled democracy in 0.53s
+2022.03.01 10:51:57 INFO  compiling democracy (1 scala source)
+2022.03.01 10:51:57 INFO  time: compiled democracy in 0.33s
+2022.03.01 10:52:09 INFO  compiling democracy (1 scala source)
+2022.03.01 10:52:09 INFO  time: compiled democracy in 0.22s
+2022.03.01 10:52:19 INFO  compiling democracy (1 scala source)
+2022.03.01 10:52:19 INFO  time: compiled democracy in 0.96s
+2022.03.01 10:54:03 INFO  compiling democracy (1 scala source)
+2022.03.01 10:54:05 INFO  time: compiled democracy in 2.27s
+2022.03.01 10:54:05 INFO  compiling democracy (1 scala source)
+2022.03.01 10:54:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:54:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:54:07 INFO  time: compiled democracy in 1.77s
+2022.03.01 10:54:51 INFO  compiling democracy (1 scala source)
+2022.03.01 10:54:51 INFO  time: compiled democracy in 0.47s
+2022.03.01 10:54:53 INFO  compiling democracy (1 scala source)
+2022.03.01 10:54:53 INFO  time: compiled democracy in 0.53s
+2022.03.01 10:54:59 INFO  compiling democracy (1 scala source)
+2022.03.01 10:55:00 INFO  time: compiled democracy in 1.2s
+2022.03.01 10:56:41 INFO  compiling democracy (1 scala source)
+2022.03.01 10:56:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:41 INFO  time: compiled democracy in 0.47s
+2022.03.01 10:56:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:42 INFO  compiling democracy (1 scala source)
+2022.03.01 10:56:42 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:42 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:42 INFO  time: compiled democracy in 0.23s
+2022.03.01 10:56:43 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:42 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:43 INFO  compiling democracy (1 scala source)
+2022.03.01 10:56:44 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:44 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:44 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:43 INFO  time: compiled democracy in 0.34s
+2022.03.01 10:56:44 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:45 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:46 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:46 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:47 INFO  compiling democracy (1 scala source)
+2022.03.01 10:56:47 INFO  time: compiled democracy in 0.1s
+2022.03.01 10:56:47 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:56:47 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:26 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:26 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:28 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:31 INFO  compiling democracy (1 scala source)
+2022.03.01 10:57:31 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:31 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 10:57:32 INFO  time: compiled democracy in 1.2s
+2022.03.01 10:57:38 INFO  compiling democracy (1 scala source)
+2022.03.01 10:57:38 INFO  time: compiled democracy in 0.29s
+2022.03.01 10:57:42 INFO  compiling democracy (1 scala source)
+2022.03.01 10:57:42 INFO  time: compiled democracy in 0.23s
+2022.03.01 10:57:55 INFO  compiling democracy (1 scala source)
+2022.03.01 10:57:55 INFO  time: compiled democracy in 0.53s
+2022.03.01 10:57:59 INFO  compiling democracy (1 scala source)
+2022.03.01 10:58:00 INFO  time: compiled democracy in 1.16s
+2022.03.01 11:04:55 INFO  compiling democracy (1 scala source)
+2022.03.01 11:04:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:56 INFO  time: compiled democracy in 1.01s
+2022.03.01 11:04:57 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:57 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:58 INFO  compiling democracy (1 scala source)
+2022.03.01 11:04:58 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:58 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:58 INFO  time: compiled democracy in 0.58s
+2022.03.01 11:04:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:04:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:05:00 INFO  compiling democracy (1 scala source)
+2022.03.01 11:05:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:05:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:05:00 INFO  time: compiled democracy in 0.26s
+2022.03.01 11:06:39 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:06:39 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:06:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:06:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:06:55 INFO  compiling democracy (1 scala source)
+2022.03.01 11:06:56 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:06:56 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:06:55 INFO  time: compiled democracy in 0.4s
+2022.03.01 11:07:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:04 INFO  compiling democracy (1 scala source)
+2022.03.01 11:07:05 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:05 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:04 INFO  time: compiled democracy in 0.56s
+2022.03.01 11:07:15 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:15 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:15 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:16 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:17 INFO  compiling democracy (1 scala source)
+2022.03.01 11:07:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:17 INFO  time: compiled democracy in 0.27s
+2022.03.01 11:07:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:20 INFO  compiling democracy (1 scala source)
+2022.03.01 11:07:20 INFO  time: compiled democracy in 0.1s
+2022.03.01 11:07:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:28 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:45 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:45 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:46 INFO  compiling democracy (1 scala source)
+2022.03.01 11:07:45 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:46 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:46 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 11:07:47 INFO  time: compiled democracy in 1.05s
+2022.03.01 12:10:08 INFO  compiling democracy (1 scala source)
+2022.03.01 12:10:08 INFO  time: compiled democracy in 0.8s
+2022.03.01 12:10:37 INFO  compiling democracy (1 scala source)
+2022.03.01 12:10:37 INFO  time: compiled democracy in 93ms
+2022.03.01 12:10:38 INFO  compiling democracy (1 scala source)
+2022.03.01 12:10:38 INFO  time: compiled democracy in 0.38s
+2022.03.01 12:10:41 INFO  compiling democracy (1 scala source)
+2022.03.01 12:10:41 INFO  time: compiled democracy in 0.24s
+2022.03.01 12:10:46 INFO  compiling democracy (1 scala source)
+2022.03.01 12:10:46 INFO  time: compiled democracy in 0.67s
+2022.03.01 12:10:49 INFO  compiling democracy (1 scala source)
+2022.03.01 12:10:49 INFO  time: compiled democracy in 0.31s
+2022.03.01 12:10:51 INFO  compiling democracy (1 scala source)
+2022.03.01 12:10:51 INFO  time: compiled democracy in 0.43s
+2022.03.01 12:11:11 INFO  compiling democracy (1 scala source)
+2022.03.01 12:11:11 INFO  time: compiled democracy in 0.26s
+2022.03.01 12:11:20 INFO  compiling democracy (1 scala source)
+2022.03.01 12:11:20 INFO  time: compiled democracy in 0.13s
+2022.03.01 12:11:23 INFO  compiling democracy (1 scala source)
+2022.03.01 12:11:23 INFO  time: compiled democracy in 0.19s
+2022.03.01 12:11:26 INFO  compiling democracy (1 scala source)
+2022.03.01 12:11:26 INFO  time: compiled democracy in 98ms
+2022.03.01 12:11:29 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 12:11:30 INFO  compiling democracy (1 scala source)
+2022.03.01 12:11:30 INFO  time: compiled democracy in 0.16s
+Mar 01, 2022 12:11:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1987
+2022.03.01 12:11:30 INFO  compiling democracy (1 scala source)
+2022.03.01 12:11:32 INFO  time: compiled democracy in 0.66s
+2022.03.01 12:12:23 INFO  compiling democracy (1 scala source)
+2022.03.01 12:12:23 INFO  time: compiled democracy in 0.64s
+2022.03.01 12:13:04 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:04 INFO  time: compiled democracy in 0.68s
+2022.03.01 12:13:06 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:06 INFO  time: compiled democracy in 0.45s
+2022.03.01 12:13:13 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:13 INFO  time: compiled democracy in 0.59s
+2022.03.01 12:13:16 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:16 INFO  time: compiled democracy in 0.32s
+2022.03.01 12:13:18 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:18 INFO  time: compiled democracy in 0.25s
+2022.03.01 12:13:22 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:22 INFO  time: compiled democracy in 0.25s
+2022.03.01 12:13:23 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:23 INFO  time: compiled democracy in 0.56s
+2022.03.01 12:13:40 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:40 INFO  time: compiled democracy in 0.28s
+2022.03.01 12:13:46 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:46 INFO  time: compiled democracy in 0.13s
+2022.03.01 12:13:49 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:49 INFO  time: compiled democracy in 0.26s
+2022.03.01 12:13:51 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:51 INFO  time: compiled democracy in 0.29s
+2022.03.01 12:13:53 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:53 INFO  time: compiled democracy in 0.39s
+2022.03.01 12:13:55 INFO  compiling democracy (1 scala source)
+2022.03.01 12:13:55 INFO  time: compiled democracy in 0.57s
+2022.03.01 12:14:41 INFO  compiling democracy (1 scala source)
+2022.03.01 12:14:41 INFO  time: compiled democracy in 0.42s
+2022.03.01 12:15:18 INFO  compiling democracy (1 scala source)
+2022.03.01 12:15:18 INFO  time: compiled democracy in 0.47s
+2022.03.01 12:15:20 INFO  compiling democracy (1 scala source)
+2022.03.01 12:15:20 INFO  time: compiled democracy in 0.28s
+Mar 01, 2022 12:15:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2310
+2022.03.01 12:15:24 INFO  compiling democracy (1 scala source)
+2022.03.01 12:15:24 INFO  time: compiled democracy in 0.27s
+2022.03.01 12:15:31 INFO  compiling democracy (1 scala source)
+2022.03.01 12:15:31 INFO  time: compiled democracy in 0.42s
+2022.03.01 12:16:30 INFO  compiling democracy (1 scala source)
+2022.03.01 12:16:30 INFO  time: compiled democracy in 0.42s
+2022.03.01 12:16:38 INFO  compiling democracy (1 scala source)
+2022.03.01 12:16:38 INFO  time: compiled democracy in 0.25s
+2022.03.01 12:16:46 INFO  compiling democracy (1 scala source)
+2022.03.01 12:16:46 INFO  time: compiled democracy in 0.28s
+2022.03.01 12:18:00 INFO  compiling democracy (1 scala source)
+2022.03.01 12:18:00 INFO  time: compiled democracy in 0.36s
+2022.03.01 12:18:02 INFO  compiling democracy (1 scala source)
+2022.03.01 12:18:02 INFO  time: compiled democracy in 0.51s
+2022.03.01 12:18:29 INFO  compiling democracy (1 scala source)
+2022.03.01 12:18:29 INFO  time: compiled democracy in 0.23s
+2022.03.01 12:18:33 INFO  compiling democracy (1 scala source)
+2022.03.01 12:18:33 INFO  time: compiled democracy in 0.29s
+2022.03.01 12:18:36 INFO  compiling democracy (1 scala source)
+2022.03.01 12:18:36 INFO  time: compiled democracy in 0.13s
+2022.03.01 12:18:41 INFO  compiling democracy (1 scala source)
+2022.03.01 12:18:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 12:18:41 INFO  time: compiled democracy in 0.27s
+2022.03.01 13:11:04 INFO  compiling democracy (1 scala source)
+2022.03.01 13:11:04 INFO  time: compiled democracy in 0.84s
+2022.03.01 13:11:57 INFO  compiling democracy (1 scala source)
+2022.03.01 13:11:57 INFO  time: compiled democracy in 0.38s
+2022.03.01 13:11:59 INFO  compiling democracy (1 scala source)
+2022.03.01 13:12:00 INFO  time: compiled democracy in 1.16s
+2022.03.01 13:12:02 INFO  compiling democracy-test (1 scala source)
+2022.03.01 13:12:06 INFO  time: compiled democracy-test in 4.04s
+2022.03.01 13:42:06 INFO  compiling democracy (1 scala source)
+2022.03.01 13:42:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:07 INFO  time: compiled democracy in 1.35s
+2022.03.01 13:42:09 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:09 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:10 INFO  compiling democracy (1 scala source)
+2022.03.01 13:42:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:10 INFO  time: compiled democracy in 0.97s
+2022.03.01 13:42:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:21 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:21 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:21 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:23 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:23 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:23 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:24 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 13:42:24 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 14:15:21 INFO  compiling democracy (1 scala source)
+2022.03.01 14:15:21 INFO  time: compiled democracy in 0.89s
+2022.03.01 14:15:34 INFO  compiling democracy (1 scala source)
+2022.03.01 14:15:34 INFO  time: compiled democracy in 0.48s
+2022.03.01 14:15:36 INFO  compiling democracy (1 scala source)
+2022.03.01 14:15:36 INFO  time: compiled democracy in 0.53s
+2022.03.01 14:15:45 INFO  compiling democracy (1 scala source)
+2022.03.01 14:15:45 INFO  time: compiled democracy in 0.47s
+2022.03.01 14:15:47 INFO  compiling democracy (1 scala source)
+2022.03.01 14:15:47 INFO  time: compiled democracy in 0.38s
+2022.03.01 14:15:49 INFO  compiling democracy (1 scala source)
+2022.03.01 14:15:49 INFO  time: compiled democracy in 0.59s
+2022.03.01 14:15:51 INFO  compiling democracy (1 scala source)
+2022.03.01 14:15:51 INFO  time: compiled democracy in 0.67s
+2022.03.01 14:17:12 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 14:17:13 INFO  compiling democracy (1 scala source)
+2022.03.01 14:17:13 INFO  time: compiled democracy in 0.5s
+2022.03.01 14:17:31 INFO  compiling democracy (1 scala source)
+2022.03.01 14:17:31 INFO  time: compiled democracy in 0.73s
+2022.03.01 14:17:36 INFO  compiling democracy (1 scala source)
+2022.03.01 14:17:36 INFO  time: compiled democracy in 0.5s
+2022.03.01 14:17:53 INFO  compiling democracy (1 scala source)
+2022.03.01 14:17:53 INFO  time: compiled democracy in 0.46s
+2022.03.01 14:18:03 INFO  compiling democracy (1 scala source)
+2022.03.01 14:18:03 INFO  time: compiled democracy in 0.45s
+2022.03.01 14:20:49 INFO  compiling democracy (1 scala source)
+2022.03.01 14:20:49 INFO  time: compiled democracy in 0.5s
+2022.03.01 14:20:56 INFO  compiling democracy (1 scala source)
+2022.03.01 14:20:56 INFO  time: compiled democracy in 0.27s
+2022.03.01 14:20:57 INFO  compiling democracy (1 scala source)
+2022.03.01 14:20:57 INFO  time: compiled democracy in 0.11s
+2022.03.01 14:21:03 INFO  compiling democracy (1 scala source)
+2022.03.01 14:21:03 INFO  time: compiled democracy in 0.31s
+2022.03.01 14:21:07 INFO  compiling democracy (1 scala source)
+2022.03.01 14:21:07 INFO  time: compiled democracy in 0.14s
+2022.03.01 14:21:22 INFO  compiling democracy (1 scala source)
+2022.03.01 14:21:22 INFO  time: compiled democracy in 0.21s
+2022.03.01 14:27:34 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:34 INFO  time: compiled democracy in 0.66s
+2022.03.01 14:27:37 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:37 INFO  time: compiled democracy in 0.39s
+2022.03.01 14:27:38 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:38 INFO  time: compiled democracy in 0.32s
+2022.03.01 14:27:40 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:40 INFO  time: compiled democracy in 0.77s
+2022.03.01 14:27:44 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:44 INFO  time: compiled democracy in 0.63s
+2022.03.01 14:27:46 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:46 INFO  time: compiled democracy in 0.36s
+2022.03.01 14:27:50 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:50 INFO  time: compiled democracy in 0.29s
+2022.03.01 14:27:52 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:52 INFO  time: compiled democracy in 0.28s
+2022.03.01 14:27:54 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:54 INFO  time: compiled democracy in 0.45s
+2022.03.01 14:27:58 INFO  compiling democracy (1 scala source)
+2022.03.01 14:27:58 INFO  time: compiled democracy in 0.48s
+2022.03.01 14:28:01 INFO  compiling democracy (1 scala source)
+2022.03.01 14:28:01 INFO  time: compiled democracy in 0.5s
+2022.03.01 14:28:21 INFO  compiling democracy (1 scala source)
+2022.03.01 14:28:21 INFO  time: compiled democracy in 0.69s
+2022.03.01 14:28:24 INFO  compiling democracy (1 scala source)
+2022.03.01 14:28:24 INFO  time: compiled democracy in 0.34s
+2022.03.01 14:36:26 INFO  compiling democracy (1 scala source)
+2022.03.01 14:36:26 INFO  time: compiled democracy in 0.48s
+2022.03.01 14:36:41 INFO  compiling democracy (1 scala source)
+2022.03.01 14:36:41 INFO  time: compiled democracy in 0.66s
+2022.03.01 14:36:47 INFO  compiling democracy (1 scala source)
+2022.03.01 14:36:47 INFO  time: compiled democracy in 0.43s
+2022.03.01 14:36:52 INFO  compiling democracy (1 scala source)
+2022.03.01 14:36:52 INFO  time: compiled democracy in 0.35s
+2022.03.01 14:36:55 INFO  compiling democracy (1 scala source)
+2022.03.01 14:36:55 INFO  time: compiled democracy in 0.38s
+2022.03.01 14:41:49 INFO  compiling democracy (1 scala source)
+2022.03.01 14:41:49 INFO  time: compiled democracy in 0.85s
+2022.03.01 14:41:57 INFO  compiling democracy (1 scala source)
+2022.03.01 14:41:57 INFO  time: compiled democracy in 0.58s
+2022.03.01 14:42:08 INFO  compiling democracy (1 scala source)
+2022.03.01 14:42:08 INFO  time: compiled democracy in 0.37s
+2022.03.01 14:46:17 INFO  compiling democracy (1 scala source)
+2022.03.01 14:46:17 INFO  time: compiled democracy in 0.41s
+2022.03.01 14:46:21 INFO  compiling democracy (1 scala source)
+2022.03.01 14:46:21 INFO  time: compiled democracy in 0.79s
+2022.03.01 14:46:33 INFO  compiling democracy (1 scala source)
+2022.03.01 14:46:33 INFO  time: compiled democracy in 0.43s
+2022.03.01 14:46:43 INFO  compiling democracy (1 scala source)
+2022.03.01 14:46:43 INFO  time: compiled democracy in 0.37s
+2022.03.01 14:48:02 INFO  compiling democracy (1 scala source)
+2022.03.01 14:48:02 INFO  time: compiled democracy in 0.66s
+2022.03.01 14:48:16 INFO  compiling democracy (1 scala source)
+2022.03.01 14:48:16 INFO  time: compiled democracy in 0.6s
+2022.03.01 14:48:25 INFO  compiling democracy (1 scala source)
+2022.03.01 14:48:25 INFO  time: compiled democracy in 0.5s
+2022.03.01 14:56:26 INFO  compiling democracy (1 scala source)
+2022.03.01 14:56:26 INFO  time: compiled democracy in 0.66s
+2022.03.01 14:56:44 INFO  compiling democracy (1 scala source)
+2022.03.01 14:56:44 INFO  time: compiled democracy in 0.51s
+2022.03.01 16:03:46 INFO  compiling democracy (1 scala source)
+2022.03.01 16:03:46 INFO  time: compiled democracy in 0.54s
+2022.03.01 16:03:49 INFO  compiling democracy (1 scala source)
+2022.03.01 16:03:49 INFO  time: compiled democracy in 0.76s
+2022.03.01 16:03:51 INFO  compiling democracy (1 scala source)
+2022.03.01 16:03:51 INFO  time: compiled democracy in 0.41s
+2022.03.01 16:03:52 INFO  compiling democracy (1 scala source)
+2022.03.01 16:03:52 INFO  time: compiled democracy in 0.38s
+2022.03.01 16:03:58 INFO  compiling democracy (1 scala source)
+2022.03.01 16:03:58 INFO  time: compiled democracy in 0.4s
+2022.03.01 16:04:01 INFO  compiling democracy (1 scala source)
+2022.03.01 16:04:01 INFO  time: compiled democracy in 0.39s
+2022.03.01 16:04:05 INFO  compiling democracy (1 scala source)
+2022.03.01 16:04:05 INFO  time: compiled democracy in 0.31s
+2022.03.01 16:04:11 INFO  compiling democracy (1 scala source)
+2022.03.01 16:04:11 INFO  time: compiled democracy in 0.51s
+2022.03.01 16:04:17 INFO  compiling democracy (1 scala source)
+2022.03.01 16:04:17 INFO  time: compiled democracy in 0.43s
+2022.03.01 16:05:28 INFO  compiling democracy (1 scala source)
+2022.03.01 16:05:28 INFO  time: compiled democracy in 0.43s
+2022.03.01 16:05:30 INFO  compiling democracy (1 scala source)
+2022.03.01 16:05:30 INFO  time: compiled democracy in 0.3s
+2022.03.01 16:05:43 INFO  compiling democracy (1 scala source)
+2022.03.01 16:05:43 INFO  time: compiled democracy in 0.29s
+Mar 01, 2022 4:05:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3978
+2022.03.01 16:05:52 INFO  compiling democracy (1 scala source)
+2022.03.01 16:05:52 INFO  time: compiled democracy in 0.33s
+2022.03.01 16:05:55 INFO  compiling democracy (1 scala source)
+2022.03.01 16:05:55 INFO  time: compiled democracy in 0.57s
+2022.03.01 16:09:33 INFO  compiling democracy (1 scala source)
+2022.03.01 16:09:33 INFO  time: compiled democracy in 0.7s
+2022.03.01 16:09:36 INFO  compiling democracy (1 scala source)
+2022.03.01 16:09:36 INFO  time: compiled democracy in 0.4s
+2022.03.01 16:10:38 INFO  compiling democracy (1 scala source)
+2022.03.01 16:10:38 INFO  time: compiled democracy in 0.45s
+2022.03.01 16:40:46 INFO  compiling democracy (1 scala source)
+2022.03.01 16:40:46 INFO  time: compiled democracy in 0.67s
+2022.03.01 16:40:49 INFO  compiling democracy (1 scala source)
+2022.03.01 16:40:49 INFO  time: compiled democracy in 0.7s
+2022.03.01 16:40:57 INFO  compiling democracy (1 scala source)
+2022.03.01 16:40:57 INFO  time: compiled democracy in 0.42s
+2022.03.01 16:42:55 INFO  compiling democracy (1 scala source)
+2022.03.01 16:42:55 INFO  time: compiled democracy in 0.49s
+2022.03.01 16:43:00 INFO  compiling democracy (1 scala source)
+2022.03.01 16:43:00 INFO  time: compiled democracy in 0.7s
+2022.03.01 16:43:05 INFO  compiling democracy (1 scala source)
+2022.03.01 16:43:05 INFO  time: compiled democracy in 0.48s
+2022.03.01 16:52:18 INFO  compiling democracy (1 scala source)
+2022.03.01 16:52:18 INFO  time: compiled democracy in 0.69s
+2022.03.01 17:05:57 INFO  compiling democracy (1 scala source)
+2022.03.01 17:05:57 INFO  time: compiled democracy in 0.67s
+2022.03.01 17:05:59 INFO  compiling democracy (1 scala source)
+2022.03.01 17:05:59 INFO  time: compiled democracy in 0.37s
+2022.03.01 17:06:06 INFO  compiling democracy (1 scala source)
+2022.03.01 17:06:06 INFO  time: compiled democracy in 0.36s
+2022.03.01 17:52:10 INFO  compiling democracy (1 scala source)
+2022.03.01 17:52:10 INFO  time: compiled democracy in 0.58s
+Mar 01, 2022 5:52:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4424
+2022.03.01 17:52:14 INFO  compiling democracy (1 scala source)
+2022.03.01 17:52:14 INFO  time: compiled democracy in 0.54s
+2022.03.01 17:52:18 INFO  compiling democracy (1 scala source)
+2022.03.01 17:52:18 INFO  time: compiled democracy in 0.71s
+2022.03.01 17:52:30 INFO  compiling democracy (1 scala source)
+2022.03.01 17:52:30 INFO  time: compiled democracy in 0.39s
+2022.03.01 17:52:43 INFO  compiling democracy (1 scala source)
+2022.03.01 17:52:43 INFO  time: compiled democracy in 0.35s
+2022.03.01 17:53:16 INFO  compiling democracy (1 scala source)
+2022.03.01 17:53:16 INFO  time: compiled democracy in 0.36s
+2022.03.01 17:53:18 INFO  compiling democracy (1 scala source)
+2022.03.01 17:53:18 INFO  time: compiled democracy in 0.43s
+2022.03.01 17:54:13 INFO  compiling democracy (1 scala source)
+2022.03.01 17:54:13 INFO  time: compiled democracy in 0.77s
+2022.03.01 17:54:20 INFO  compiling democracy (1 scala source)
+2022.03.01 17:54:20 INFO  time: compiled democracy in 0.27s
+2022.03.01 17:54:23 INFO  compiling democracy (1 scala source)
+2022.03.01 17:54:23 INFO  time: compiled democracy in 93ms
+2022.03.01 17:54:26 INFO  compiling democracy (1 scala source)
+2022.03.01 17:54:26 INFO  time: compiled democracy in 0.24s
+2022.03.01 17:54:32 INFO  compiling democracy (1 scala source)
+2022.03.01 17:54:32 INFO  time: compiled democracy in 0.25s
+2022.03.01 17:54:34 INFO  compiling democracy (1 scala source)
+2022.03.01 17:54:34 INFO  time: compiled democracy in 0.27s
+2022.03.01 17:54:37 INFO  compiling democracy (1 scala source)
+2022.03.01 17:54:37 INFO  time: compiled democracy in 0.19s
+2022.03.01 17:56:50 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 17:56:55 INFO  compiling democracy (1 scala source)
+2022.03.01 17:56:55 INFO  time: compiled democracy in 0.53s
+2022.03.01 17:57:00 INFO  compiling democracy (1 scala source)
+2022.03.01 17:57:00 INFO  time: compiled democracy in 0.14s
+2022.03.01 17:57:04 INFO  compiling democracy (1 scala source)
+2022.03.01 17:57:04 INFO  time: compiled democracy in 0.19s
+2022.03.01 17:57:07 INFO  compiling democracy (1 scala source)
+2022.03.01 17:57:07 INFO  time: compiled democracy in 0.16s
+2022.03.01 17:57:10 INFO  compiling democracy (1 scala source)
+2022.03.01 17:57:10 INFO  time: compiled democracy in 0.94s
