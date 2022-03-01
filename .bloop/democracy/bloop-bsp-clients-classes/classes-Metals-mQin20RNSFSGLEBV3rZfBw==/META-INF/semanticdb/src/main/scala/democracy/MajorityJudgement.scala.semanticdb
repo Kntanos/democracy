@@ -1,5 +1,5 @@
 
-ÖK0src/main/scala/democracy/MajorityJudgement.scala*"
+âN0src/main/scala/democracy/MajorityJudgement.scala*"
 democracy/Grade# îÄ*GradeÄ*-
 democracy/Grade#`<init>`(). Ä@*<init>Ä* 
 democracy/Grade.
@@ -81,8 +81,11 @@ findWinnerÄ*O
 local12 Ä*filteredGradesÄ*
 local13 Ä*
 medianCalcÄ*!
-local14 Ä*bestCandidatesÄ*4
-local15 Ä*!bestCandidatesMinusOneMedianGradeÄ*'
+local14 Ä*bestCandidatesÄ*
+local15*x$1Ä*
+local16*	candidateÄ*
+local17*gradesÄ*4
+local18 Ä*!bestCandidatesMinusOneMedianGradeÄ*'
 democracy/Election#copy().*copyÄ*;
 'democracy/Election#copy().(description)*descriptionÄ*9
 &democracy/Election#copy().(candidates)*
@@ -240,14 +243,24 @@ democracy/2
 ww scala/Predef.Map#2"
 ww 'democracy/Candidate#2 
 w)w ,scala/package.Seq#2
-w-w 2democracy/Grade#2B
-xx 4democracy/Election#findWinner().(gradesPerCandidate)2!
+w-w 2democracy/Grade#24
+xx !&scala/collection/IterableOps#filter().2B
+xx 4democracy/Election#findWinner().(gradesPerCandidate)2
+x#x ,local162
+x#x #scala/Tuple2#_1.2
+x.x 4local172
+x.x .scala/Tuple2#_2.2
+xNx Pscala/Any#`==`().2'
+x?x Edemocracy/Grade.median().2
+x9x >democracy/Grade.2
+xFx Llocal172
+xQx `local102!
 {{ scala/Int#`==`(+3).26
 {{ (scala/collection/IterableOnceOps#size().2
 {	{ local142#
 ~~ scala/Predef.`???`().2
 
-ãã -local152!
+ãã -local182!
 
 ã/ã 2scala/Predef.Map#2$
 
@@ -260,4 +273,4 @@ democracy/2
 å
 å scala/Predef.`???`().2%
 
-êê scala/Predef.`???`().PZ A767D876C8A830ABFAD24B2FC588C8B9
+êê scala/Predef.`???`().PZ A04A8564C84B4D2B78CE3296D5152F30

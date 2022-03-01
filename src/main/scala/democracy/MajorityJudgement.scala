@@ -103,7 +103,7 @@ case class Election(description: String, candidates: Set[Candidate]):
       val randomIndex   = util.Random.between(0, candidatesSeq.size)
       candidatesSeq(randomIndex)
     else
-      // Otherwise, find the highest median grade assigned to a candidate.
+      // Otherwise, find the highest median grade assigned to a candidate (of all candidates. Not each candidate).
       // Use the operation `values` to select the collections of grades,
       // then use the operation `filter` to keep only the non empty grades,
       // then use the operation `map` to compute the median value of each collection
@@ -118,7 +118,7 @@ case class Election(description: String, candidates: Set[Candidate]):
       // Use the operation `filter` to select all the candidates that got the
       // same best median grade (as the case may be)
       val bestCandidates: Map[Candidate, Seq[Grade]] =
-        
+        gradesPerCandidate.filter((candidate, grades) => Grade.median(grades) == bestMedianGrade)
 
       // In case only one candidate got the best median grade, it’s the winner!
       if bestCandidates.size == 1 then
