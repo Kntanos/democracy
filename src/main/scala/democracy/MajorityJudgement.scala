@@ -110,12 +110,15 @@ case class Election(description: String, candidates: Set[Candidate]):
       // of grades, and finally use the operation `maxBy` to find the highest
       // median grade.
       val bestMedianGrade: Grade =
-        ???
+        val grades = gradesPerCandidate.values
+        val filteredGrades = grades.filter(!_.isEmpty)
+        val medianCalc = filteredGrades.map(Grade.median(_))
+        medianCalc.maxBy(_.ordinal)
 
       // Use the operation `filter` to select all the candidates that got the
       // same best median grade (as the case may be)
       val bestCandidates: Map[Candidate, Seq[Grade]] =
-        ???
+        
 
       // In case only one candidate got the best median grade, it’s the winner!
       if bestCandidates.size == 1 then

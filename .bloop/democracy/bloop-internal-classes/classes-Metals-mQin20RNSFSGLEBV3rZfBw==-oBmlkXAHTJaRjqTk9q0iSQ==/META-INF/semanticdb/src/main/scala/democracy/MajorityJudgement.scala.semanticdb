@@ -1,5 +1,5 @@
 
-ìE0src/main/scala/democracy/MajorityJudgement.scala*"
+ÖK0src/main/scala/democracy/MajorityJudgement.scala*"
 democracy/Grade# îÄ*GradeÄ*-
 democracy/Grade#`<init>`(). Ä@*<init>Ä* 
 democracy/Grade.
@@ -76,9 +76,13 @@ findWinnerÄ*O
 local7*gradesÄ*
 local8 Ä*candidatesSeqÄ*
 local9 Ä*randomIndexÄ*"
-local10 Ä*bestMedianGradeÄ*!
-local11 Ä*bestCandidatesÄ*4
-local12 Ä*!bestCandidatesMinusOneMedianGradeÄ*'
+local10 Ä*bestMedianGradeÄ*
+local11 Ä*gradesÄ*!
+local12 Ä*filteredGradesÄ*
+local13 Ä*
+medianCalcÄ*!
+local14 Ä*bestCandidatesÄ*4
+local15 Ä*!bestCandidatesMinusOneMedianGradeÄ*'
 democracy/Election#copy().*copyÄ*;
 'democracy/Election#copy().(description)*descriptionÄ*9
 &democracy/Election#copy().(candidates)*
@@ -213,31 +217,47 @@ democracy/2
 gg local92
 o
 o local102
-oo  democracy/Grade#2#
-pp scala/Predef.`???`().2
-t
-t local112
-tt scala/Predef.Map#2"
-tt 'democracy/Candidate#2 
-t)t ,scala/package.Seq#2
-t-t 2democracy/Grade#2#
-uu scala/Predef.`???`().2!
-xx scala/Int#`==`(+3).26
-xx (scala/collection/IterableOnceOps#size().2
-x	x local112#
-{{ scala/Predef.`???`().2
+oo  democracy/Grade#2
+pp local112/
+p(p .!scala/collection/MapOps#values().2B
+pp '4democracy/Election#findWinner().(gradesPerCandidate)2
+qq local1224
+q$q *&scala/collection/IterableOps#filter().2
+qq #local112(
+q5q 5scala/Boolean#`unary_!`().20
+q.q 5"scala/collection/SeqOps#isEmpty().2
+rr local1321
+r(r +#scala/collection/IterableOps#map().2
+rr 'local122'
+r2r 8democracy/Grade.median().2
+r,r 1democracy/Grade.27
+ss )scala/collection/IterableOnceOps#maxBy().2
+ss local132+
+ss "scala/reflect/Enum#ordinal().2&
+s#s #scala/math/Ordering.Int.2
+w
+w local142
+ww scala/Predef.Map#2"
+ww 'democracy/Candidate#2 
+w)w ,scala/package.Seq#2
+w-w 2democracy/Grade#2B
+xx 4democracy/Election#findWinner().(gradesPerCandidate)2!
+{{ scala/Int#`==`(+3).26
+{{ (scala/collection/IterableOnceOps#size().2
+{	{ local142#
+~~ scala/Predef.`???`().2
 
-àà -local122!
+ãã -local152!
 
-à/à 2scala/Predef.Map#2$
+ã/ã 2scala/Predef.Map#2$
 
-à3à <democracy/Candidate#2"
+ã3ã <democracy/Candidate#2"
 
-à>à Ascala/package.Seq#2 
+ã>ã Ascala/package.Seq#2 
 
-àBà Gdemocracy/Grade#2%
+ãBã Gdemocracy/Grade#2%
 
-â
-â scala/Predef.`???`().2%
+å
+å scala/Predef.`???`().2%
 
-çç scala/Predef.`???`().PZ 94C7A22BF9F96B4CDED81302024AA236
+êê scala/Predef.`???`().PZ A767D876C8A830ABFAD24B2FC588C8B9

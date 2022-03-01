@@ -733,3 +733,600 @@ WARNING: Unmatched cancel notification for request id 4424
 2022.03.01 17:57:07 INFO  time: compiled democracy in 0.16s
 2022.03.01 17:57:10 INFO  compiling democracy (1 scala source)
 2022.03.01 17:57:10 INFO  time: compiled democracy in 0.94s
+2022.03.01 20:46:47 INFO  compiling democracy (1 scala source)
+2022.03.01 20:46:47 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:47 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:47 INFO  time: compiled democracy in 0.65s
+2022.03.01 20:46:48 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:48 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:48 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:48 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:49 INFO  compiling democracy (1 scala source)
+2022.03.01 20:46:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:49 INFO  time: compiled democracy in 0.5s
+2022.03.01 20:46:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:53 INFO  compiling democracy (1 scala source)
+2022.03.01 20:46:53 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:53 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:46:53 INFO  time: compiled democracy in 0.23s
+2022.03.01 20:47:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:01 INFO  compiling democracy (1 scala source)
+2022.03.01 20:47:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:01 INFO  time: compiled democracy in 0.39s
+2022.03.01 20:47:16 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:16 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:17 INFO  compiling democracy (1 scala source)
+2022.03.01 20:47:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:17 INFO  time: compiled democracy in 0.62s
+2022.03.01 20:47:18 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:23 INFO  compiling democracy (1 scala source)
+2022.03.01 20:47:23 INFO  time: compiled democracy in 0.1s
+2022.03.01 20:47:23 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:23 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:31 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:31 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:31 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:32 INFO  compiling democracy (1 scala source)
+2022.03.01 20:47:32 INFO  time: compiled democracy in 95ms
+2022.03.01 20:47:32 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:32 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:34 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:34 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:35 INFO  compiling democracy (1 scala source)
+2022.03.01 20:47:35 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:35 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:35 INFO  time: compiled democracy in 0.26s
+2022.03.01 20:47:37 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:39 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:47:40 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:08 INFO  compiling democracy (1 scala source)
+2022.03.01 20:48:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:08 INFO  time: compiled democracy in 0.38s
+2022.03.01 20:48:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:11 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:11 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:11 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:12 INFO  compiling democracy (1 scala source)
+2022.03.01 20:48:12 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:12 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:12 INFO  time: compiled democracy in 0.27s
+2022.03.01 20:48:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:15 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:16 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:16 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:17 INFO  compiling democracy (1 scala source)
+2022.03.01 20:48:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:17 INFO  time: compiled democracy in 0.3s
+2022.03.01 20:48:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:20 INFO  compiling democracy (1 scala source)
+2022.03.01 20:48:20 INFO  time: compiled democracy in 0.34s
+2022.03.01 20:48:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:21 INFO  compiling democracy (1 scala source)
+2022.03.01 20:48:21 INFO  time: compiled democracy in 0.22s
+2022.03.01 20:48:21 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:21 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:23 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:24 INFO  compiling democracy (1 scala source)
+2022.03.01 20:48:24 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:24 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:24 INFO  time: compiled democracy in 0.44s
+2022.03.01 20:48:25 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:25 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:26 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:26 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:27 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:26 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:27 INFO  compiling democracy (1 scala source)
+2022.03.01 20:48:28 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:28 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:48:27 INFO  time: compiled democracy in 0.28s
+2022.03.01 20:49:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:50 INFO  compiling democracy (1 scala source)
+2022.03.01 20:49:50 INFO  time: compiled democracy in 0.22s
+2022.03.01 20:49:50 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:50 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:50 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:50 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:51 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:51 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:52 INFO  compiling democracy (1 scala source)
+2022.03.01 20:49:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:52 INFO  time: compiled democracy in 0.52s
+2022.03.01 20:49:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:56 INFO  compiling democracy (1 scala source)
+2022.03.01 20:49:56 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:56 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:56 INFO  time: compiled democracy in 0.3s
+2022.03.01 20:49:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:49:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:01 INFO  compiling democracy (1 scala source)
+2022.03.01 20:50:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:01 INFO  time: compiled democracy in 0.45s
+2022.03.01 20:50:02 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:02 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:02 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:02 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:05 INFO  compiling democracy (1 scala source)
+2022.03.01 20:50:05 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:05 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:05 INFO  time: compiled democracy in 0.54s
+2022.03.01 20:50:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:09 INFO  compiling democracy (1 scala source)
+2022.03.01 20:50:09 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:09 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:09 INFO  time: compiled democracy in 0.6s
+2022.03.01 20:50:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:11 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:13 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:13 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:14 INFO  compiling democracy (1 scala source)
+2022.03.01 20:50:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:50:14 INFO  time: compiled democracy in 0.66s
+2022.03.01 20:56:12 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:12 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:16 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:16 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:17 INFO  compiling democracy (1 scala source)
+2022.03.01 20:56:18 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:18 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:17 INFO  time: compiled democracy in 0.82s
+2022.03.01 20:56:19 INFO  compiling democracy (1 scala source)
+2022.03.01 20:56:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:19 INFO  time: compiled democracy in 0.33s
+Mar 01, 2022 8:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5283
+2022.03.01 20:56:39 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:39 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:40 INFO  compiling democracy (1 scala source)
+2022.03.01 20:56:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:40 INFO  time: compiled democracy in 0.46s
+2022.03.01 20:56:47 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:47 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:48 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:48 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:48 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:51 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:51 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:52 INFO  compiling democracy (1 scala source)
+2022.03.01 20:56:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:52 INFO  time: compiled democracy in 0.53s
+2022.03.01 20:56:56 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:56 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:57 INFO  compiling democracy (1 scala source)
+2022.03.01 20:56:57 INFO  time: compiled democracy in 0.1s
+2022.03.01 20:56:57 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:57 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:56:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:01 INFO  compiling democracy (1 scala source)
+2022.03.01 20:57:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:01 INFO  time: compiled democracy in 0.25s
+2022.03.01 20:57:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:02 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:03 INFO  compiling democracy (1 scala source)
+2022.03.01 20:57:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:03 INFO  time: compiled democracy in 0.29s
+2022.03.01 20:57:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:04 INFO  compiling democracy (1 scala source)
+2022.03.01 20:57:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:04 INFO  time: compiled democracy in 0.24s
+2022.03.01 20:57:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:09 INFO  compiling democracy (1 scala source)
+2022.03.01 20:57:09 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:09 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:09 INFO  time: compiled democracy in 0.43s
+2022.03.01 20:57:13 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:13 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:13 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:13 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:15 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:16 INFO  compiling democracy (1 scala source)
+2022.03.01 20:57:16 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:16 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:16 INFO  time: compiled democracy in 0.32s
+2022.03.01 20:57:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:18 INFO  compiling democracy (1 scala source)
+2022.03.01 20:57:18 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:18 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:18 INFO  time: compiled democracy in 0.27s
+2022.03.01 20:57:32 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:32 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:33 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:33 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:34 INFO  compiling democracy (1 scala source)
+2022.03.01 20:57:34 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:34 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:34 INFO  time: compiled democracy in 0.5s
+2022.03.01 20:57:35 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:38 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:41 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:42 INFO  compiling democracy (1 scala source)
+2022.03.01 20:57:42 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:42 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:42 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:57:42 INFO  time: compiled democracy in 0.45s
+2022.03.01 20:58:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:05 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:08 INFO  compiling democracy (1 scala source)
+2022.03.01 20:58:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:08 INFO  time: compiled democracy in 0.35s
+2022.03.01 20:58:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:10 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:11 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:11 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:11 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:11 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:12 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:12 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:13 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:13 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:13 INFO  compiling democracy (1 scala source)
+2022.03.01 20:58:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:13 INFO  time: compiled democracy in 0.48s
+2022.03.01 20:58:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:19 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:21 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:21 INFO  compiling democracy (1 scala source)
+2022.03.01 20:58:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:21 INFO  time: compiled democracy in 0.38s
+2022.03.01 20:58:29 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:29 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:30 INFO  compiling democracy (1 scala source)
+2022.03.01 20:58:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 20:58:30 INFO  time: compiled democracy in 0.24s
+2022.03.01 21:01:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:31 INFO  compiling democracy (1 scala source)
+2022.03.01 21:01:31 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:31 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:31 INFO  time: compiled democracy in 0.29s
+2022.03.01 21:01:31 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:31 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:32 INFO  compiling democracy (1 scala source)
+2022.03.01 21:01:32 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:32 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:32 INFO  time: compiled democracy in 0.46s
+2022.03.01 21:01:33 INFO  compiling democracy (1 scala source)
+2022.03.01 21:01:34 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:34 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:33 INFO  time: compiled democracy in 0.24s
+2022.03.01 21:01:34 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:34 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:34 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:35 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:35 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:35 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:35 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:36 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:36 INFO  compiling democracy (1 scala source)
+2022.03.01 21:01:37 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:37 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:36 INFO  time: compiled democracy in 0.37s
+2022.03.01 21:01:54 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:54 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:55 INFO  compiling democracy (1 scala source)
+2022.03.01 21:01:55 INFO  time: compiled democracy in 0.1s
+2022.03.01 21:01:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:58 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:58 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:58 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:01:59 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:00 INFO  compiling democracy (1 scala source)
+2022.03.01 21:02:00 INFO  time: compiled democracy in 93ms
+2022.03.01 21:02:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:04 INFO  compiling democracy (1 scala source)
+2022.03.01 21:02:04 INFO  time: compiled democracy in 95ms
+2022.03.01 21:02:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:04 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:05 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:06 INFO  compiling democracy (1 scala source)
+2022.03.01 21:02:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:06 INFO  time: compiled democracy in 0.4s
+2022.03.01 21:02:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:07 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:08 INFO  compiling democracy (1 scala source)
+2022.03.01 21:02:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:08 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:02:08 INFO  time: compiled democracy in 0.41s
+2022.03.01 21:07:44 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:44 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:48 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:48 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:48 INFO  compiling democracy (1 scala source)
+2022.03.01 21:07:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:49 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:48 INFO  time: compiled democracy in 0.38s
+2022.03.01 21:07:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:52 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:53 INFO  compiling democracy (1 scala source)
+2022.03.01 21:07:54 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:54 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:53 INFO  time: compiled democracy in 0.23s
+2022.03.01 21:07:54 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:54 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:55 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:56 INFO  compiling democracy (1 scala source)
+2022.03.01 21:07:56 INFO  time: compiled democracy in 0.12s
+2022.03.01 21:07:56 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:07:56 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:05 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:05 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:06 INFO  compiling democracy (1 scala source)
+2022.03.01 21:08:06 INFO  time: compiled democracy in 95ms
+2022.03.01 21:08:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:06 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:18 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:20 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:21 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:21 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:22 INFO  compiling democracy (1 scala source)
+2022.03.01 21:08:22 INFO  time: compiled democracy in 0.18s
+2022.03.01 21:08:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:22 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:23 INFO  compiling democracy (1 scala source)
+2022.03.01 21:08:23 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:23 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:08:23 INFO  time: compiled democracy in 0.84s
+2022.03.01 21:13:08 INFO  compiling democracy (1 scala source)
+2022.03.01 21:13:09 INFO  time: compiled democracy in 1.08s
+2022.03.01 21:13:25 INFO  compiling democracy (1 scala source)
+2022.03.01 21:13:26 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:26 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:26 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:25 INFO  time: compiled democracy in 0.65s
+2022.03.01 21:13:28 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:28 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:29 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:29 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:29 INFO  compiling democracy (1 scala source)
+2022.03.01 21:13:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:30 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:13:29 INFO  time: compiled democracy in 0.85s
+2022.03.01 21:13:40 INFO  compiling democracy (1 scala source)
+2022.03.01 21:13:40 INFO  time: compiled democracy in 0.3s
+2022.03.01 21:13:42 INFO  compiling democracy (1 scala source)
+2022.03.01 21:13:42 INFO  time: compiled democracy in 0.23s
+2022.03.01 21:13:46 INFO  compiling democracy (1 scala source)
+2022.03.01 21:13:46 INFO  time: compiled democracy in 0.62s
+2022.03.01 21:14:17 INFO  compiling democracy (1 scala source)
+2022.03.01 21:14:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:14:17 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:14:17 INFO  time: compiled democracy in 0.35s
+2022.03.01 21:17:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:17:00 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:17:01 INFO  compiling democracy (1 scala source)
+2022.03.01 21:17:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:17:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:17:01 INFO  time: compiled democracy in 0.16s
+2022.03.01 21:17:02 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:17:01 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:17:03 INFO  compiling democracy (1 scala source)
+2022.03.01 21:17:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:17:03 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:17:03 INFO  time: compiled democracy in 0.73s
+2022.03.01 21:17:12 INFO  compiling democracy (1 scala source)
+2022.03.01 21:17:12 INFO  time: compiled democracy in 0.76s
+2022.03.01 21:17:14 INFO  compiling democracy (1 scala source)
+2022.03.01 21:17:14 INFO  time: compiled democracy in 0.23s
+2022.03.01 21:17:19 INFO  compiling democracy (1 scala source)
+2022.03.01 21:17:19 INFO  time: compiled democracy in 0.14s
+2022.03.01 21:17:22 INFO  compiling democracy (1 scala source)
+2022.03.01 21:17:22 INFO  time: compiled democracy in 0.12s
+2022.03.01 21:17:24 INFO  compiling democracy (1 scala source)
+2022.03.01 21:17:24 INFO  time: compiled democracy in 0.15s
+2022.03.01 21:18:27 INFO  compiling democracy (1 scala source)
+2022.03.01 21:18:27 INFO  time: compiled democracy in 0.2s
+2022.03.01 21:18:32 INFO  compiling democracy (1 scala source)
+2022.03.01 21:18:32 INFO  time: compiled democracy in 0.41s
+2022.03.01 21:18:33 INFO  compiling democracy (1 scala source)
+2022.03.01 21:18:33 INFO  time: compiled democracy in 0.14s
+2022.03.01 21:18:39 INFO  compiling democracy (1 scala source)
+2022.03.01 21:18:39 INFO  time: compiled democracy in 0.45s
+2022.03.01 21:18:43 INFO  compiling democracy (1 scala source)
+2022.03.01 21:18:43 INFO  time: compiled democracy in 0.46s
+2022.03.01 21:18:48 INFO  compiling democracy (1 scala source)
+2022.03.01 21:18:48 INFO  time: compiled democracy in 0.3s
+2022.03.01 21:19:03 INFO  compiling democracy (1 scala source)
+2022.03.01 21:19:03 INFO  time: compiled democracy in 0.28s
+2022.03.01 21:20:35 INFO  compiling democracy (1 scala source)
+2022.03.01 21:20:35 INFO  time: compiled democracy in 0.31s
+2022.03.01 21:20:56 INFO  compiling democracy (1 scala source)
+2022.03.01 21:20:56 INFO  time: compiled democracy in 0.16s
+2022.03.01 21:20:58 INFO  compiling democracy (1 scala source)
+2022.03.01 21:20:58 INFO  time: compiled democracy in 0.22s
+2022.03.01 21:21:02 INFO  compiling democracy (1 scala source)
+2022.03.01 21:21:02 INFO  time: compiled democracy in 0.17s
+2022.03.01 21:21:04 INFO  compiling democracy (1 scala source)
+2022.03.01 21:21:04 INFO  time: compiled democracy in 73ms
+2022.03.01 21:21:07 INFO  compiling democracy (1 scala source)
+2022.03.01 21:21:07 INFO  time: compiled democracy in 0.17s
+2022.03.01 21:21:11 INFO  compiling democracy (1 scala source)
+2022.03.01 21:21:11 INFO  time: compiled democracy in 0.13s
+2022.03.01 21:21:12 INFO  compiling democracy (1 scala source)
+2022.03.01 21:21:12 INFO  time: compiled democracy in 0.12s
+2022.03.01 21:21:25 INFO  compiling democracy (1 scala source)
+2022.03.01 21:21:25 INFO  time: compiled democracy in 0.27s
+2022.03.01 21:22:33 INFO  compiling democracy (1 scala source)
+2022.03.01 21:22:33 INFO  time: compiled democracy in 0.16s
+2022.03.01 21:22:58 INFO  compiling democracy (1 scala source)
+2022.03.01 21:22:58 INFO  time: compiled democracy in 0.12s
+2022.03.01 21:23:00 INFO  compiling democracy (1 scala source)
+2022.03.01 21:23:00 INFO  time: compiled democracy in 0.11s
+2022.03.01 21:23:02 INFO  compiling democracy (1 scala source)
+2022.03.01 21:23:02 INFO  time: compiled democracy in 81ms
+2022.03.01 21:23:13 INFO  compiling democracy (1 scala source)
+2022.03.01 21:23:13 INFO  time: compiled democracy in 0.31s
+2022.03.01 21:24:50 INFO  compiling democracy (1 scala source)
+2022.03.01 21:24:50 INFO  time: compiled democracy in 0.12s
+2022.03.01 21:24:52 INFO  compiling democracy (1 scala source)
+2022.03.01 21:24:52 INFO  time: compiled democracy in 0.56s
+2022.03.01 21:24:53 INFO  compiling democracy (1 scala source)
+2022.03.01 21:24:53 INFO  time: compiled democracy in 0.17s
+2022.03.01 21:24:55 INFO  compiling democracy (1 scala source)
+2022.03.01 21:24:55 INFO  time: compiled democracy in 0.27s
+2022.03.01 21:24:58 INFO  compiling democracy (1 scala source)
+2022.03.01 21:24:58 INFO  time: compiled democracy in 0.29s
+Mar 01, 2022 9:26:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6599
+2022.03.01 21:26:26 INFO  compiling democracy (1 scala source)
+2022.03.01 21:26:26 INFO  time: compiled democracy in 0.2s
+2022.03.01 21:27:31 INFO  compiling democracy (1 scala source)
+2022.03.01 21:27:31 INFO  time: compiled democracy in 0.4s
+2022.03.01 21:27:33 INFO  compiling democracy (1 scala source)
+2022.03.01 21:27:33 INFO  time: compiled democracy in 0.11s
+2022.03.01 21:27:35 INFO  compiling democracy (1 scala source)
+2022.03.01 21:27:35 INFO  time: compiled democracy in 0.23s
+2022.03.01 21:27:37 INFO  compiling democracy (1 scala source)
+2022.03.01 21:27:37 INFO  time: compiled democracy in 0.24s
+2022.03.01 21:27:42 INFO  compiling democracy (1 scala source)
+2022.03.01 21:27:42 INFO  time: compiled democracy in 0.14s
+2022.03.01 21:28:19 INFO  compiling democracy (1 scala source)
+2022.03.01 21:28:19 INFO  time: compiled democracy in 93ms
+2022.03.01 21:28:22 INFO  compiling democracy (1 scala source)
+2022.03.01 21:28:22 INFO  time: compiled democracy in 0.11s
+2022.03.01 21:28:24 INFO  compiling democracy (1 scala source)
+2022.03.01 21:28:24 INFO  time: compiled democracy in 93ms
+2022.03.01 21:28:43 INFO  compiling democracy (1 scala source)
+2022.03.01 21:28:44 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
+2022.03.01 21:28:43 INFO  time: compiled democracy in 0.32s
+2022.03.01 21:28:45 INFO  compiling democracy (1 scala source)
+2022.03.01 21:28:45 INFO  time: compiled democracy in 0.39s
+Mar 01, 2022 9:28:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6809
+2022.03.01 21:29:03 INFO  compiling democracy (1 scala source)
+2022.03.01 21:29:03 INFO  time: compiled democracy in 0.35s
+2022.03.01 21:29:17 INFO  compiling democracy (1 scala source)
+2022.03.01 21:29:17 INFO  time: compiled democracy in 0.24s
+2022.03.01 21:34:28 INFO  compiling democracy (1 scala source)
+2022.03.01 21:34:28 INFO  time: compiled democracy in 0.52s
+2022.03.01 21:34:32 INFO  compiling democracy (1 scala source)
+2022.03.01 21:34:32 INFO  time: compiled democracy in 0.11s
+2022.03.01 21:34:35 INFO  compiling democracy (1 scala source)
+2022.03.01 21:34:35 INFO  time: compiled democracy in 98ms
+2022.03.01 21:34:41 INFO  compiling democracy (1 scala source)
+2022.03.01 21:34:41 INFO  time: compiled democracy in 0.47s
+2022.03.01 21:36:02 INFO  compiling democracy (1 scala source)
+2022.03.01 21:36:02 INFO  time: compiled democracy in 0.23s
+2022.03.01 21:36:04 INFO  compiling democracy (1 scala source)
+2022.03.01 21:36:04 INFO  time: compiled democracy in 0.42s
+2022.03.01 21:36:07 INFO  compiling democracy (1 scala source)
+2022.03.01 21:36:07 INFO  time: compiled democracy in 0.1s
+2022.03.01 21:36:22 INFO  compiling democracy (1 scala source)
+2022.03.01 21:36:22 INFO  time: compiled democracy in 0.25s
