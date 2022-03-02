@@ -124,7 +124,7 @@ case class Election(description: String, candidates: Set[Candidate]):
       if bestCandidates.size == 1 then
         // Use the operation `head` to retrieve the only element
         // of the collection `bestCandidates`
-        ???
+        bestCandidates.head._1
       else
         // Otherwise, there is a tie between several candidates. The tie-breaking
         // algorithm is the following:
@@ -138,11 +138,12 @@ case class Election(description: String, candidates: Set[Candidate]):
         // And use the operation `diff` to remove one `bestMedianGrade` from the
         // grades assigned to the candidates.
         val bestCandidatesMinusOneMedianGrade: Map[Candidate, Seq[Grade]] =
-          ???
+          // bestCandidates.map((candidate, grades) => (candidate, grades diff List(bestMedianGrade)))
+          bestCandidates.map((_1, _2) => (_1, _2 diff List(bestMedianGrade)))
   
         // Finally, call `findWinner` on the reduced collection of candidates,
         // `bestCandidatesMinusOneMedianGrade`.
-        ???
+        findWinner(bestCandidatesMinusOneMedianGrade)
   end findWinner
 
 end Election

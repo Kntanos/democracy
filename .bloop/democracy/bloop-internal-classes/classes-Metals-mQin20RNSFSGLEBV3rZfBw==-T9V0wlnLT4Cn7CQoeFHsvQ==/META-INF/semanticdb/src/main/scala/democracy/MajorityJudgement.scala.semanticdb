@@ -1,5 +1,5 @@
 
-ÀR0src/main/scala/democracy/MajorityJudgement.scala*"
+‡V0src/main/scala/democracy/MajorityJudgement.scala*"
 democracy/Grade# îÄ*GradeÄ*-
 democracy/Grade#`<init>`(). Ä@*<init>Ä* 
 democracy/Grade.
@@ -86,9 +86,12 @@ medianCalcÄ*!
 local16*	candidateÄ*
 local17*gradesÄ*4
 local18 Ä*!bestCandidatesMinusOneMedianGradeÄ*
-local19*x$1Ä*
-local20*_1Ä*
-local21*_2Ä*'
+local19*x$1Ä*
+local20*	candidateÄ*
+local21*gradesÄ*
+local22*x$1Ä*
+local23*	candidateÄ*
+local24*gradesÄ*'
 democracy/Election#copy().*copyÄ*;
 'democracy/Election#copy().(description)*descriptionÄ*9
 &democracy/Election#copy().(candidates)*
@@ -275,33 +278,60 @@ democracy/2
 
 ãBã Gdemocracy/Grade#2.
 
+åå scala/collection/MapOps#map().2
+
+å
+å local142
+
+åå 'local202 
+
+åå scala/Tuple2#_1.2
+
+å)å /local212 
+
+å)å )scala/Tuple2#_2.2%
+
+å5å 5scala/Tuple2.apply().2
+
+å5å >local202/
+
+åGå Kscala/collection/SeqOps#diff().2
+
+å@å Flocal2129
+
+åPå P)scala/collection/IterableFactory#apply().2#
+
+åLå Pscala/package.List.2
+
+åQå `local102.
+
 çç scala/collection/MapOps#map().2
 
 ç
 ç local142
 
-çç  local202 
+çç 'local232 
 
 çç scala/Tuple2#_1.2
 
-ç"ç $local212 
+ç)ç /local242 
 
-ç"ç "scala/Tuple2#_2.2%
+ç)ç )scala/Tuple2#_2.2%
 
-ç*ç *scala/Tuple2.apply().2
+ç5ç 5scala/Tuple2.apply().2
 
-ç*ç ,local202/
+ç5ç >local232/
 
-ç1ç 5scala/collection/SeqOps#diff().2
+çGç Kscala/collection/SeqOps#diff().2
 
-ç.ç 0local2129
+ç@ç Flocal2429
 
-ç:ç :)scala/collection/IterableFactory#apply().2#
+çPç P)scala/collection/IterableFactory#apply().2#
 
-ç6ç :scala/package.List.2
+çLç Pscala/package.List.2
 
-ç;ç Jlocal1020
+çQç `local1020
 
 ëë  democracy/Election#findWinner().2
 
-ëë 4local18PZ 06A31163B934DEB17841A742AF83FAB0
+ëë 4local18PZ 9B05384829ECBD67A4D9B1C1AED6D19E

@@ -1,5 +1,5 @@
 
-ÀR0src/main/scala/democracy/MajorityJudgement.scala*"
+ V0src/main/scala/democracy/MajorityJudgement.scala*"
 democracy/Grade# îÄ*GradeÄ*-
 democracy/Grade#`<init>`(). Ä@*<init>Ä* 
 democracy/Grade.
@@ -88,7 +88,10 @@ medianCalcÄ*!
 local18 Ä*!bestCandidatesMinusOneMedianGradeÄ*
 local19*x$1Ä*
 local20*_1Ä*
-local21*_2Ä*'
+local21*_2Ä*
+local22*x$1Ä*
+local23*_1Ä*
+local24*_2Ä*'
 democracy/Election#copy().*copyÄ*;
 'democracy/Election#copy().(description)*descriptionÄ*9
 &democracy/Election#copy().(candidates)*
@@ -300,8 +303,35 @@ democracy/2
 
 ç6ç :scala/package.List.2
 
-ç;ç Jlocal1020
+ç;ç Jlocal102.
 
-ëë  democracy/Election#findWinner().2
+éé scala/collection/MapOps#map().2
 
-ëë 4local18PZ 06A31163B934DEB17841A742AF83FAB0
+é
+é local142
+
+éé  local232 
+
+éé scala/Tuple2#_1.2
+
+é"é $local242 
+
+é"é "scala/Tuple2#_2.2%
+
+é*é *scala/Tuple2.apply().2
+
+é*é ,local232/
+
+é1é 5scala/collection/SeqOps#diff().2
+
+é.é 0local2429
+
+é:é :)scala/collection/IterableFactory#apply().2#
+
+é6é :scala/package.List.2
+
+é;é Jlocal1020
+
+íí  democracy/Election#findWinner().2
+
+íí 4local18PZ A6589EB6E784FDDAFD0D7880753C862A
