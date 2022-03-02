@@ -1967,3 +1967,43 @@ WARNING: Unmatched cancel notification for request id 8441
 2022.03.02 10:06:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
 2022.03.02 10:06:14 WARN  Could not load snapshot text for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/src/main/scala/democracy/MajorityJudgement.scala
 2022.03.02 10:06:14 INFO  time: compiled democracy in 0.52s
+2022.03.02 10:07:32 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/dap-server.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2022.03.02 10:07:32 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/dap-client.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2022.03.02 10:07:32 INFO  Starting debug proxy for [democracy.MajorityJudgementSuite]
+2022.03.02 10:07:34 INFO  Trying to attach to remote debuggee VM localhost:61544 .
+2022.03.02 10:07:34 INFO  Attaching to debuggee VM succeeded.
+2022.03.02 10:07:35 INFO  Canceling debug proxy for [democracy.MajorityJudgementSuite]
+2022.03.02 10:07:35 INFO  Closing debug server tcp://0.0.0.0:61539
+Mar 02, 2022 10:07:35 AM org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer fireError
+SEVERE: java.net.SocketException: Socket closed
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.net.SocketException: Socket closed
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.debug.SocketEndpoint.consume(SocketEndpoint.scala:22)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.consume(MessageIdAdapter.scala:43)
+	at scala.meta.internal.metals.debug.ServerAdapter.send(ServerAdapter.scala:30)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:138)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:63)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:118)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 21 more
+
