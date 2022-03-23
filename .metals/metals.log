@@ -2007,3 +2007,97 @@ Caused by: java.net.SocketException: Socket closed
 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
 	... 21 more
 
+2022.03.02 10:13:00 INFO  compiling democracy (1 scala source)
+2022.03.02 10:13:00 INFO  time: compiled democracy in 0.48s
+2022.03.02 10:16:38 INFO  shutting down Metals
+2022.03.02 10:16:39 INFO  Shut down connection with build server.
+2022.03.02 10:16:39 INFO  Shut down connection with build server.
+2022.03.02 10:16:39 INFO  Shut down connection with build server.
+2022.03.02 11:40:42 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/lsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.03.02 11:40:42 INFO  logging to file /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/metals.log
+2022.03.02 11:40:42 INFO  Started: Metals version 0.11.1 in workspace '/Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy' for client Visual Studio Code 1.64.2.
+2022.03.02 11:40:42 INFO  Parse release: 1.8.0_292
+2022.03.02 11:40:44 INFO  time: initialize in 1.5s
+2022.03.02 11:40:45 INFO  Attempting to connect to the build server...
+2022.03.02 11:40:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/bsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.03.02 11:40:46 INFO  Attempting to connect to the build server...
+2022.03.02 11:40:46 INFO  skipping build import with status 'Installed'
+2022.03.02 11:40:46 INFO  Attempting to connect to the build server...
+2022.03.02 11:40:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/.metals/bsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.03.02 11:40:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/project/.metals/bsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.03.02 11:40:46 INFO  time: Connected to build server in 1.32s
+2022.03.02 11:40:46 INFO  Connected to Build server: Bloop v1.4.12
+2022.03.02 11:40:50 INFO  no build target found for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/build.sbt. Using presentation compiler with project's scala-library version: 3.1.0
+2022.03.02 11:40:50 INFO  time: code lens generation in 4.71s
+2022.03.02 11:40:51 INFO  time: Imported build in 0.33s
+2022.03.02 11:40:51 INFO  no build target found for /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/build.sbt. Using presentation compiler with project's scala-library version: 3.1.0
+2022.03.02 11:40:53 INFO  time: code lens generation in 7.02s
+2022.03.02 11:40:57 INFO  time: indexed workspace in 6.05s
+2022.03.02 11:41:28 INFO  shutting down Metals
+2022.03.02 11:41:28 INFO  Shut down connection with build server.
+2022.03.02 11:41:28 INFO  Shut down connection with build server.
+2022.03.02 11:41:28 INFO  Shut down connection with build server.
+2022.03.23 13:48:30 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/lsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.03.23 13:48:30 INFO  logging to file /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/metals.log
+2022.03.23 13:48:30 INFO  Started: Metals version 0.11.2 in workspace '/Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy' for client Visual Studio Code 1.65.2.
+2022.03.23 13:48:30 INFO  Parse release: 17.0.2
+2022.03.23 13:48:31 INFO  time: initialize in 1.03s
+2022.03.23 13:48:31 INFO  Deleting old database format /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/metals.h2.db
+2022.03.23 13:48:31 INFO  Attempting to connect to the build server...
+2022.03.23 13:48:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/bsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.03.23 13:48:31 INFO  Attempting to connect to the build server...
+2022.03.23 13:48:31 INFO  Attempting to connect to the build server...
+2022.03.23 13:48:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/project/.metals/bsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.03.23 13:48:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/.metals/bsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.03.23 13:48:31 INFO  time: Connected to build server in 0.29s
+2022.03.23 13:48:31 INFO  Connected to Build server: Bloop v1.4.13
+2022.03.23 13:48:34 INFO  time: indexed workspace in 2.8s
+2022.03.23 13:48:38 INFO  running '/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/3k/zp1jhn5x4t7cx84fblxgbdvc0000gn/T/metals6034794577895128185/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.03.23 13:48:39 WARN  no build target for: /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/project/metals.sbt
+2022.03.23 13:48:39 INFO  skipping build import with status 'Started'
+2022.03.23 13:48:39 ERROR WARNING: A terminally deprecated method in java.lang.System has been called
+2022.03.23 13:48:39 ERROR WARNING: System::setSecurityManager has been called by sbt.TrapExit$ (file:/Users/kostas/.sbt/boot/scala-2.12.13/org.scala-sbt/sbt/1.5.0/run_2.12-1.5.0.jar)
+2022.03.23 13:48:39 ERROR WARNING: Please consider reporting this to the maintainers of sbt.TrapExit$
+2022.03.23 13:48:39 ERROR WARNING: System::setSecurityManager will be removed in a future release
+2022.03.23 13:48:39 INFO  [info] welcome to sbt 1.5.0 (Oracle Corporation Java 17.0.2)
+2022.03.23 13:48:39 INFO  [info] loading global plugins from /Users/kostas/.sbt/1.0/plugins
+2022.03.23 13:48:41 INFO  [info] loading settings for project democracy-build-build-build from metals.sbt ...
+2022.03.23 13:48:41 INFO  [info] loading project definition from /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/project/project
+2022.03.23 13:48:41 INFO  [info] loading settings for project democracy-build-build from metals.sbt ...
+2022.03.23 13:48:41 INFO  [info] loading project definition from /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/project
+2022.03.23 13:48:42 INFO  [success] Generated .bloop/democracy-build-build.json
+2022.03.23 13:48:42 INFO  [success] Total time: 1 s, completed 23 Mar 2022, 13:48:42
+2022.03.23 13:48:42 INFO  [info] loading settings for project democracy-build from buildSettings.sbt,metals.sbt,plugins.sbt ...
+2022.03.23 13:48:42 INFO  [info] loading project definition from /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project
+2022.03.23 13:48:44 INFO  [success] Generated .bloop/democracy-build.json
+2022.03.23 13:48:44 INFO  [info] compiling 2 Scala sources to /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/target/scala-2.12/sbt-1.0/classes ...
+2022.03.23 13:48:44 INFO  [info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.13. Compiling...
+2022.03.23 13:48:47 INFO  [info]   Compilation completed in 3.417s.
+2022.03.23 13:48:47 INFO  [info] done compiling
+2022.03.23 13:48:48 INFO  [success] Total time: 5 s, completed 23 Mar 2022, 13:48:48
+2022.03.23 13:48:48 INFO  [info] loading settings for project democracy from assignment.sbt,build.sbt ...
+2022.03.23 13:48:50 INFO  [info] set current project to effective-scala-democracy (in build file:/Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/)
+2022.03.23 13:48:50 INFO  [warn] there's a key that's not used by any other settings/tasks:
+2022.03.23 13:48:50 INFO  [warn]  
+2022.03.23 13:48:50 INFO  [warn] * democracy / assignmentVersion
+2022.03.23 13:48:50 INFO  [warn]   +- /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/assignment.sbt:4
+2022.03.23 13:48:50 INFO  [warn]  
+2022.03.23 13:48:50 INFO  [warn] note: a setting might still be used by a command; to exclude a key from this `lintUnused` check
+2022.03.23 13:48:50 INFO  [warn] either append it to `Global / excludeLintKeys` or call .withRank(KeyRanks.Invisible) on the key
+2022.03.23 13:48:50 INFO  [success] Generated .bloop/democracy-test.json
+2022.03.23 13:48:50 INFO  [success] Generated .bloop/democracy.json
+2022.03.23 13:48:50 INFO  [success] Total time: 0 s, completed 23 Mar 2022, 13:48:50
+2022.03.23 13:48:50 INFO  time: ran 'sbt bloopInstall' in 11s
+2022.03.23 13:48:50 INFO  Disconnecting from Bloop session...
+2022.03.23 13:48:50 INFO  Shut down connection with build server.
+2022.03.23 13:48:50 INFO  Shut down connection with build server.
+2022.03.23 13:48:50 INFO  Shut down connection with build server.
+2022.03.23 13:48:50 INFO  Attempting to connect to the build server...
+2022.03.23 13:48:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/.metals/bsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.03.23 13:48:50 INFO  Attempting to connect to the build server...
+2022.03.23 13:48:50 INFO  Attempting to connect to the build server...
+2022.03.23 13:48:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/project/.metals/bsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.03.23 13:48:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/kostas/Library/CloudStorage/OneDrive-Personal/Scala/democracy/project/.metals/bsp.trace.json or /Users/kostas/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.03.23 13:48:50 INFO  time: Connected to build server in 64ms
+2022.03.23 13:48:50 INFO  Connected to Build server: Bloop v1.4.13
+2022.03.23 13:48:51 INFO  time: indexed workspace in 0.84s
